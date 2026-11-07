@@ -247,9 +247,3 @@
 ## Не сверено
 
 Из-за rate-limit GitHub API не подтверждены: Ominis-OSINT (путь репо), mailfy, часть Mastodon/Bluesky-тулз, reverse-image обёртки, slug Shodan-клиента. Перед использованием проверить руками. Статусы устаревают — смотри дату последнего коммита.
-
----
-
-## Также в репозитории
-
-- [`hackathon/PT-container-activity-map-guide.md`](hackathon/PT-container-activity-map-guide.md) — гайд к задаче Positive Technologies «Интерактивная карта активности контейнера»: подготовка, архитектура, план на 8 часов, тесты и проверки безопасности.
